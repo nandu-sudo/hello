@@ -1,0 +1,53 @@
+#parent{
+    position: relative;
+    height:250px;
+    background-color: navy;
+    width: 1000px;
+}
+#childx{
+    position:relative;
+    width : 50px;
+    left: 110px;
+    height: 100px;
+    top: 20px;
+}
+#child0{
+    position: relative;
+    height: 180px;
+    width: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:x-small;
+    top: 100px;
+    color:slategrey;
+}
+
+#child1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    left:375px;
+    top:21px;
+    width: 250px;
+    font-size: small;
+    color: slategrey
+}
+#child2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    left: 590px;
+    bottom: 150px;
+    font-size: small;
+    color: slategrey
+}
+#child3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;
+    left: 766px;
+    bottom: 375px;
+    font-size: small;
+    color: slategrey;
+
+}
+/*
+#child{
+    word-wrap: break-word;
+}
